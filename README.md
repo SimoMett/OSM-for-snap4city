@@ -1,6 +1,5 @@
 # Guida all'installazione delle componenti di OSM
-Questa repository contiene script per inizializzare e mantenere l'editor iD di OpenStreetMap e il tile server.  
-Per clonarla eseguire `git clone --recurse-submodules https://github.com/SimoMett/OSM-for-snap4city.git`
+Questa repository contiene script per inizializzare e mantenere l'editor iD di OpenStreetMap e il tile server.
 
 ## Requisiti
 Questa repo fa uso dei seguenti software:
